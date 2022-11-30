@@ -1,0 +1,1 @@
+Wenn man alles mit etwas machen kann, inklusive diese Rechte auf andere zu übertragen.

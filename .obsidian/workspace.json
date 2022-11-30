@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "1a12ac304bc92cf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1e78e867d2cad6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eb7684ba22b899f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Binäre Dezimal Konversion.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba3d9e7a69a3ecfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "68562fd0340ec20f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "836acbd6afae36d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "c64fcde3c4e4de7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad7dc0b969957139",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "461c034aa072d079",
+    "type": "split",
+    "children": [
+      {
+        "id": "97979151d181f69c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f46415c64b3ed09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Binäre Dezimal Konversion.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a758f398b16544ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Binäre Dezimal Konversion.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "543e354255c8dbc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30f24aa464b4663d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Binäre Dezimal Konversion.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7eb7684ba22b899f",
+  "lastOpenFiles": [
+    "Drawing 2022-11-30 09.52.36.excalidraw.md",
+    "Drawing 2022-11-30 22.10.24.excalidraw.md",
+    "2022-11-30.md",
+    "Drawing 2022-11-30 22.10.25.excalidraw.md",
+    "Drawing 2022-11-30 14.20.45.excalidraw.md",
+    "Aussage.md",
+    "Menge.md",
+    "Widerspruchsbeweis.md",
+    "Quantor.md",
+    "Drawing 2022-11-30 11.18.33.excalidraw.md"
+  ]
+}
