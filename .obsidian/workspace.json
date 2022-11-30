@@ -4,20 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "d1e78e867d2cad6c",
+        "id": "2931c744ef52f597",
         "type": "tabs",
         "children": [
           {
-            "id": "7eb7684ba22b899f",
+            "id": "a0d0d4a93255b971",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e764736605aff565",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
               "state": {
-                "file": "Binäre Dezimal Konversion.excalidraw.md"
+                "file": "Menge.md",
+                "staged": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binäre Dezimal Konversion.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binäre Dezimal Konversion.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,33 +126,39 @@
             }
           },
           {
+            "id": "c97b78fe94548cf4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "30f24aa464b4663d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Binäre Dezimal Konversion.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7eb7684ba22b899f",
+  "active": "e764736605aff565",
   "lastOpenFiles": [
     "Drawing 2022-11-30 09.52.36.excalidraw.md",
+    "Untitled.md",
+    "Menge.md",
+    "Quantor.md",
+    "Aussage.md",
+    "Toleranz.md",
+    "super.md",
     "Drawing 2022-11-30 22.10.24.excalidraw.md",
     "2022-11-30.md",
-    "Drawing 2022-11-30 22.10.25.excalidraw.md",
-    "Drawing 2022-11-30 14.20.45.excalidraw.md",
-    "Aussage.md",
-    "Menge.md",
-    "Widerspruchsbeweis.md",
-    "Quantor.md",
-    "Drawing 2022-11-30 11.18.33.excalidraw.md"
+    "Drawing 2022-11-30 22.10.25.excalidraw.md"
   ]
 }

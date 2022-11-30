@@ -1,4 +1,13 @@
 {
   "accentColor": "",
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "latex"
+  ],
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Noto Sans",
+  "translucency": false
 }
