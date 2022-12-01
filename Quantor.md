@@ -1,4 +1,4 @@
-Gilt für einen Bereich. Der Bereich bleibt beim negieren gleich.
+Gilt für einen oder mehrere Bereich. Der Bereich bleibt beim negieren gleich.
 
 $$ A = \forall _{n \in \mathbb{N}} A(n)$$
 $\forall$ heist Allquantor, für alle Elemente. Kann man auch als Und-Kobination aller [[Aussage | Aussagen]] verstehen. Daher wird es bei negierung zu $\exists$.

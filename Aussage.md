@@ -31,7 +31,7 @@ Falsch | Falsch | Falsch
 
 
 ## Implikation
-Stellt keine kausalität dar, impliziert ausschließlich ("Daraus muss folgen"). Wenn $A$ eine unwahre Aussage ist, impliziert es nichts für die Aussage $B$. Wenn $A$ eine wahre Aussage ist, kann es nur eine wahre Aussage implizieren. 
+$\implies$ ist nur ein Operator, der besagt, dass nur wenn die erste Aussage zutrifft, auch die zweite Aussage zutrifft. Das Zeichen alleine bedeutet jedoch keine Kausalität.
 
 | $A$ | $B$ | $A \Rightarrow B$ | $A \land (A \Rightarrow B)$ | $A \land (A \Rightarrow B) \Rightarrow B$ "Tautologie" Direkter Beweis | $A \land (\bar B \Rightarrow \bar A) \Rightarrow B$ Indirekter Beweise |
 | --- | --- | --- | --- | --- | --- |
