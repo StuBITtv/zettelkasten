@@ -1,25 +1,28 @@
-Zuerst definiert von CANTOR.
+Naive Definition von **Cantor**. Mithilfe von einem **Venn-Diagram** lassen sich Mengen und deren Beziehungen als überlappende Flächen darstellen.
 
+# Arten
+- Explizite Aufzählung 
 $$
 \{ Liste\ aller\ Werte\}
 $$
+- Deskriptive Form, also beschreibend 
 $$
-\{ e \in\ Wertebereich\ zB\ \mathbb{N}\ oder\ \mathbb{R}|\ Bedingung \}
+\{ x \in\text{Wertebereich}\ |\  \text{Bedingung} \}
 $$
 $$
-\{ Funktion | Wertebreich \}
+\{ \text{Funktion}\ |\ \text{Wertebreich} \}
 $$
 $$
 X: \text{Menge},\ A(x)\ \text{Aussageform:}\ B=\{ x \in X | A(x)\} \subseteq X
 $$
 
 # Teilmenge
-Jede Menge ist ihre eigene Teilmenge. Alle Werte der Teilmenge sind auch in der Ausgangsmenge enthalten.
+Jede Menge ist ihre eigene Teilmenge. Wenn zwei Mengen Teilmengen zueinander sind, sind sie identisch.
 $$
-X \subseteq Y :\Leftrightarrow x \in X \Rightarrow x \in Y
+X \subseteq Y \land Y \subseteq X \iff X = Y
 $$
 
-Echte Teilmengen, wenn die Mengen  nicht gleich sein können.
+**Echte Teilmengen**, wenn die Mengen  nicht gleich sein können.
 $$
 X \subset Y :\iff (x \in Y \iff x \in Y) \land (\exists _{y \in Y} y \notin X)
 $$
@@ -36,4 +39,4 @@ Alle [[Aussage | Ausssagen]] über die Elemente sind wahr. Teilmenge aller Menge
 - Schnittmenge $M_{1} \cap M_{2}$
 - Differenz $M_{1} \setminus M_{2}$, in $M_{1}$ aber nicht in $M_{2}$
 - Symetirsche Differen $M_{1} \triangle M_{2}$, nicht in $M_{1}$ und nicht in $M_{2}$
-- Komplement $\bar{M_{1}}$, nicht in $M_{1}$
+- [[Komplement | Komplement]] $\mathrm{M_{1}}$, nicht in $M_{1}$
