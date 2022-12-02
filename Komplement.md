@@ -1,8 +1,6 @@
 Jenes Objekt, welches ein Objekt zum kompletten ergänzt.
 
 # Komplementzahl
-Ist die Zahl, welche zu den jeweiligen Stellen dazu addiert werden muss, um den maximalen Wert anzunehmen.
+Die Zahl, welche die Stellen einer Zahl zu einen beliebigen Maximalwert ergänzt. Das Komplement zur $n$ lautet $K_{n}$.
 
-Vereinfachter Subratitionen, indem die Addition der Komplimitärzahl das gleiche Ergebnis liefert, wenn die Stellenanzahl gleich bleib. Da dabei der letzte Übertrag verloren geht, addiert man eins zu der Komplimentärzahl zuvor.
-
-Die Komplimentärzahl für die Subtraktion im Binärsystem erhält man, indem man die Zahl invertieren und eins dazu addieren. Im Dezimalsystem zieht man die Zahl von der nächst größeren Zehnerpotenz ab.
+Vereinfacht die Subtraktion, indem man das Komplement der Base von der Zahl bildet und diese hinzuaddiert, wenn dabei die Stellenanzahl dabei beschränkt wird. Das **Zehnerkomplement** für die Subtraktion im Dezimalsystem erhält man, indem man die Zahl von der nächst größeren Zehnerpotenz abzieht. Das **Zweierkomplement** für die Subtraktion im Binärsystem erhält man, indem man die Zahl invertiert und eins addiert.

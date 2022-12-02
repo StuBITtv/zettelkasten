@@ -1,9 +1,13 @@
 # Konversion von und zu Dezimal
 ![[Binäre Dezimal Konversion.excalidraw | 1000]]
 
-# Addition
-![[Binäres Addieren.excalidraw | ]]
-Es ist einfacher mehrere Zahlen hintereinander zu addieren, anstatt alle auf einmal.
+# Operatoren
+Analog zum Dezimalsystem.
+- Für die **Addition** ist es einfacher mehrere Zahlen hintereinander zu addieren, anstatt alle auf einmal.
+- **Subtration** wird in der Regel nicht auf die tradizionelle Art gemacht, sondern in dem man mit der [[Komplement | Komplimentärzahl]] addiert.
+- Bei der **Multiplikation** kann bei $n$ Bitstellen kann das Produkt maximal $2n$ Bitstellen haben. Für negative Werte zuersten den Beträge multiplizeren und am Ende das Vorzeichen bestimmen.
+- Wenn bei der **Division** eines Integers keine weitere Bitstelle vorhanden ist, endet diese. 
 
-# Subtration
-Wird in der Regel nicht auf die tradizionelle Art gemacht, sondern in dem man mit der [[Komplement | Komplimentärzahl]] addiert.
+
+# Overflow
+Lässt sich daran feststellen, dass der letzte und vorletzte Übertrag nicht identisch sind. Kann nicht auftreten, wenn man eine positive Zahl von einer positiven Zahl abzieht. 
