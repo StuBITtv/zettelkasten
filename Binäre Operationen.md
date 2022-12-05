@@ -1,12 +1,18 @@
-# Konversion von und zu Dezimal
+# Konversion 
+- **Dezimal**, zuerst in Binär umwandeln wenn andere Zahlensysteme verwenden soll
 ![[Binäre Dezimal Konversion.excalidraw | 1000]]
 
-# Operatoren
+- **Hexadezimal**, 4 Bits sind eine Hexadezimalstelle
+- **Octal**, 3 Bits sind eine Octalstelle
+
+# Mathematische Operatoren
 Analog zum Dezimalsystem.
 - Für die **Addition** ist es einfacher mehrere Zahlen hintereinander zu addieren, anstatt alle auf einmal.
 - **Subtration** wird in der Regel nicht auf die tradizionelle Art gemacht, sondern in dem man mit der [[Komplement | Komplimentärzahl]] addiert.
 - Bei der **Multiplikation** kann bei $n$ Bitstellen kann das Produkt maximal $2n$ Bitstellen haben. Für negative Werte zuersten den Beträge multiplizeren und am Ende das Vorzeichen bestimmen.
 - Wenn bei der **Division** eines Integers keine weitere Bitstelle vorhanden ist, endet diese. 
+
+Vorzeichen ausklammern soweit es geht und dass die erste Zahl positiv ist, vereinfacht es.
 
 
 # Overflow

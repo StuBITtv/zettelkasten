@@ -15,3 +15,5 @@ Der 3-Exess-Kode und der Aiken-Kode machen es jeweils sehr einfach dass [[Komple
 
 Bei mehrschrittigen Kodes können Fehler auftreten, wenn die zuänderne Bits nicht gleichzeitig ihren Wert ändern.
 
+# Fehlererkennung
+Möglich durch Redudanz, bei mehr Redudanz auch Fehlerkorrektur möglich. Für den BCD-Kode gibt es als Fehlererkennung und Fehlerkorrekur den **Hamming-Kode**.

@@ -4,13 +4,24 @@ Zu einer Aussage $A$ gibt es immer dessen **Gegenausage** $\bar{A}$, auch $\lnot
 
 **Tautologien** sind Aussagen, welche immer wahr sind und werden als Werkzug für [[Beweise|Beweise]] eingesetzt. 
 
-# Äquivalenz
+# Verknüpfungen
+
+- **Konjunktion** entspricht dem logischen UND.
+- **Disjunktion** entspricht dem logischen ODER.
+- **Negation** entpricht der Gegenaussage.
+
+## Äquivalenz
 $$
 A \iff B := (A \implies B) \land (B \implies A)
 $$
 Immer dann wahr, wenn $A$ und $B$ den gleichen Wert haben.
 
-# Implikation
+Das Gegenteil dazu ist die **Antivalenz**, welche XOR entpricht.
+$$
+(A \land \overline{B}) \lor (\overline{A} \land B))
+$$
+
+## Implikation
 $\implies$ ist nur ein Operator, der besagt, dass nur wenn die erste Aussage zutrifft, auch die zweite Aussage zutrifft. Das Zeichen alleine bedeutet jedoch keine Kausalität. Wenn die erste Aussage nicht zutrifft, kann nicht  auf die zweite Aussage gefolgert werden.
 
 | $A$ | $B$ | $A \implies B$ |

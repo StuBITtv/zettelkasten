@@ -1,4 +1,15 @@
 {
   "livePreview": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "spellcheckLanguages": [
+    "en-US",
+    "de"
+  ],
+  "useTab": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

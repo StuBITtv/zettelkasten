@@ -39,4 +39,4 @@ Alle [[Aussage | Ausssagen]] über die Elemente sind wahr. Teilmenge aller Menge
 - Schnittmenge $M_{1} \cap M_{2}$
 - Differenz $M_{1} \setminus M_{2}$, in $M_{1}$ aber nicht in $M_{2}$
 - Symetirsche Differen $M_{1} \triangle M_{2}$, nicht in $M_{1}$ und nicht in $M_{2}$
-- [[Komplement | Komplement]] $\mathrm{M_{1}}$, nicht in $M_{1}$
+- [[Komplement | Komplement]] $\overline{M_{1}}$, nicht in $M_{1}$
