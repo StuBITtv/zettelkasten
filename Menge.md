@@ -10,7 +10,7 @@ $$
 \{ x \in\text{Wertebereich}\ |\  \text{Bedingung} \}
 $$
 $$
-\{ \text{Funktion}\ |\ \text{Wertebreich} \}
+\{ \text{Funktion}\ |\ \text{Wertebreich} \} \iff \{ \text{Wertebreich} | \exists_{anderer\ Wertebereich}x=Funktion\}
 $$
 $$
 X: \text{Menge},\ A(x)\ \text{Aussageform:}\ B=\{ x \in X | A(x)\} \subseteq X
@@ -23,9 +23,12 @@ X \subseteq Y \land Y \subseteq X \iff X = Y
 $$
 
 **Echte Teilmengen**, wenn die Mengen  nicht gleich sein können.
+
 $$
 X \subset Y :\iff (x \in Y \iff x \in Y) \land (\exists _{y \in Y} y \notin X)
 $$
+
+**Intervalle** sind Teilmengen von $\mathbb{R}$.
 
 # Leere Menge
 $$
@@ -35,8 +38,15 @@ $$
 Alle [[Aussage | Ausssagen]] über die Elemente sind wahr. Teilmenge aller Mengen.
 
 # Operationen
-- Vereinigungsmenge $M_{1} \cup M_{2}$
-- Schnittmenge $M_{1} \cap M_{2}$
-- Differenz $M_{1} \setminus M_{2}$, in $M_{1}$ aber nicht in $M_{2}$
-- Symetirsche Differen $M_{1} \triangle M_{2}$, nicht in $M_{1}$ und nicht in $M_{2}$
-- [[Komplement | Komplement]] $\overline{M_{1}}$, nicht in $M_{1}$
+Können durch Operatoren von [[Aussage]] dargestellt werden.
+
+- Vereinigungsmenge $M_{1} \cup M_{2}$, entspricht dem logischen ODER von [[Aussage|Aussagen]].
+- Schnittmenge $M_{1} \cap M_{2}$, entspricht dem logischen UND von [[Aussage|Aussagen]].
+- Differenz $M_{1} \setminus M_{2}$, in $M_{1}$ aber nicht in $M_{2}$.
+- Symetirsche Differen $M_{1} \triangle M_{2}$, nicht in $M_{1}$ und nicht in $M_{2}$.
+- [[Komplement | Komplement]]  $\overline{M_{1}}$, auch $M^{C}$, nicht in $M_{1}$, also $\{ x \in X |\  \overline{x \in M} \}$
+- **Kartesisches Produktmenge**, jede mögliche Kombination als geordnete Tulpe. 
+  $$
+ M_{1} \times M_{2} \times  \dots \times M_{n}:= \{ [m_{1}, m_{2}, \dots, m_{3}]\ |\ m_{1} \in M_{1} \land m_{2} \in M_{2} \land \dots \land m_{n} \in M_{n} \}
+ $$
+ ![[Kartesisches Prdukt.excalidraw|200]]
