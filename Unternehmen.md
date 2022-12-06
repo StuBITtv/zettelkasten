@@ -1,0 +1,3 @@
+*Hier nicht ausschließlich im Sinne von Firma, sondern auch im Unternehmen selbst.* Besteht aus einem **Ziel**, dass was man erreichen will, und einer **Idee**, wie man es umzusetzten kann.
+
+Das **Betreiben** ist die Realisierung der Idee aus der Transformation der [[Produktionsfaktor|Produktionsfaktoren]].  Dadurch entstehen in **Güter**, welche zurück in einen [[Produktionsfaktor#^21607d|Haushalt]] gehen in Form von Servicen, Dienstleistungen und Rechte.

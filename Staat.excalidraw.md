@@ -28,8 +28,6 @@ ansonsten nur Mensch im Staat ^3Ew1DybH
 wenn nicht in Verfassung 
 anders festgehalten ^O33E29Ve
 
-[[Geld]] ^1uWsLpcv
-
 
 # Embedded files
 86c1fddfdd5b0f0366c142797f58b8b0a0ec603b: [[Palme.png]]
@@ -1096,9 +1094,9 @@ anders festgehalten ^O33E29Ve
 		},
 		{
 			"type": "text",
-			"version": 50,
-			"versionNonce": 1698738407,
-			"isDeleted": false,
+			"version": 53,
+			"versionNonce": 1201666613,
+			"isDeleted": true,
 			"id": "1uWsLpcv",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1106,28 +1104,28 @@ anders festgehalten ^O33E29Ve
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1239.4180876749044,
+			"x": 1400.4180876749044,
 			"y": -172.15535296970728,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 181,
-			"height": 52,
+			"width": 20,
+			"height": 46,
 			"seed": 1946257417,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1669797465857,
+			"updated": 1670340681809,
 			"link": "[[Geld]]",
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "📍[[Geld]]",
-			"rawText": "[[Geld]]",
-			"baseline": 39,
+			"text": "",
+			"rawText": "",
+			"baseline": 32,
 			"textAlign": "right",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "📍[[Geld]]"
+			"originalText": ""
 		}
 	],
 	"appState": {
@@ -1146,6 +1144,11 @@ anders festgehalten ^O33E29Ve
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
+		"scrollX": 1311.4957130101302,
+		"scrollY": 1130.291200882482,
+		"zoom": {
+			"value": 0.3169875359535217
+		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null,
 		"colorPalette": {}

@@ -1,1 +1,0 @@
-Nur zum Zahlen da, wenn der Wert nicht dem "aufgedruckten" entspricht, funktioniert es nicht.
