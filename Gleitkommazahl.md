@@ -1,0 +1,1 @@
+Im Format **IEEE 754** dargestellt. Der Exzess, auch Bias genannt, ist eine Konstante abhängig von der Anzahl der Bits des Datentypes.

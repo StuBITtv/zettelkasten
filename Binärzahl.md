@@ -1,3 +1,7 @@
+Besitzt zwei die **Nennwerte**, also Zustände.
+
+Negative Zahlen dargestellt durch [[Komplement|Zweierkomplement]], wobei man das erste Bit als negative Zahl dessen Wertigkeit ansehen kann, worauf die anderen Bits drauf addiert werden.
+
 # Konversion 
 - **Dezimal**, zuerst in Binär umwandeln wenn andere Zahlensysteme verwenden soll
 ![[Binäre Dezimal Konversion.excalidraw | 1000]]
