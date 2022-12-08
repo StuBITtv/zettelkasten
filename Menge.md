@@ -55,7 +55,4 @@ Können durch Operatoren von [[Aussage]] dargestellt werden.
  M_{1} \times M_{2} \times  \dots \times M_{n}:= \{ [m_{1}, m_{2}, \dots, m_{3}]\ |\ m_{1} \in M_{1} \land m_{2} \in M_{2} \land \dots \land m_{n} \in M_{n} \}
  $$
  ![[Kartesisches Prdukt.excalidraw|200]]
- $M^{n} = M \times \dots \times M$ ist die Menge der n-Tupel über M. 
-
-# Relationen
-Die Teilmengen von kartesischen Produkte. Eine Relation ist homogen, falls diese gleich der Ausgangsmenge ist. Gibt es nur zwei Ausgangsmengen aus denen das kartesische Produkt gebildet worden ist, sind die Relationen davon binär. 
+ $M^{n} = M \times \dots \times M$ ist die Menge der n-Tupel über M.  ^0cf9fe
