@@ -1,4 +1,4 @@
-[[Menge#Teilmenge| Teilmengen]] von [[Menge#^0cf9fe|kartesischen Produkten einer Menge ]]. Eine Relation ist homogen, falls diese gleich der Ausgangsmenge ist. Gibt es nur zwei Ausgangsmengen aus denen das kartesische Produkt gebildet worden ist, sind die Relationen davon binär.
+[[Menge#Teilmenge| Teilmengen]] von [[Menge#^0cf9fe|kartesischen Produkten einer Menge ]]. Eine Relation ist homogen, falls dessen Ausgangsmengen gleich sind. Gibt es nur zwei Ausgangsmengen aus denen das kartesische Produkt gebildet worden ist, sind die Relationen davon binär.
 
 # Eigenschaften
 - **Linkstotal** bzw **rechtstotal**, wenn alle Elemente der Menge der jeweiligen Seite vorhanden sind.

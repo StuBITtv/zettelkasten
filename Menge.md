@@ -1,4 +1,4 @@
-Naive Definition von **Cantor**. Mithilfe von einem **Venn-Diagram** lassen sich Mengen und deren Beziehungen als überlappende Flächen darstellen.
+Naive Definition von **Cantor**. Mithilfe von einem **Venn-Diagram** lassen sich Mengen und deren Beziehungen als überlappende Flächen darstellen. **Kardinalität**, auch **Mächtigkeit**, beschreibt die Anzahl an Elementen. Diese ist gleich, wenn zwei Mengen [[Abbilder#Eigenschaften|bijektiv]] sind.
 
 # Arten
 - Explizite Aufzählung 
@@ -33,7 +33,7 @@ Die Menge aller Teilmengen einer Menge ist die **Potenzmenge**.
 $$
 2^{M} = \{ M' | M' \subseteq M \}
 $$
-Für die **Mächtigkeit**, also die Anzahl an Teilmengen einer Menge, gilt $2^{\text{Anzahl an Elementen in der Menge}}$.
+Für die Mächtigkeit der Menge aller Teilmengen gilt $2^{\text{Anzahl an Elementen in der Menge}}$.
 
 # Leere Menge
 $$
