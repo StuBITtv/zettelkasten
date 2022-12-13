@@ -1,1 +1,3 @@
 Werkzeuge für [[Beweise|Beweise]].  Die Zahlen, für welche die Aussage einer **Induktionsvorraussetzung** gilt, ist die Teilmenge $M \subseteq \mathbb{N}$. Wenn die Aussage für $1$ und auch für den  Nachfolger $n+1$ jedes Element $n \in M$ wahr ist, gilt die Aussage für jedes Element in $\mathbb{N}$ und $M = \mathbb{N}$.
+
+Für die vollständige Induktion geht man von der Annahme aus und fügt das nächste Element hinzu, und zeigt, dass es das gleiche ist, wie wenn man es direkt einsetzt.
