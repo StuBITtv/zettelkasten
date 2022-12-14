@@ -28,7 +28,8 @@ ansonsten nur Mensch im Staat ^3Ew1DybH
 wenn nicht in Verfassung 
 anders festgehalten ^O33E29Ve
 
-Der Staat ist eine Kolektiveaufgabe ^JaqHRUKW
+Der Staat ist eine Kolektivaufgabe
+Ausgleichsmechanismus für Ungleichheit ^JaqHRUKW
 
 
 # Embedded files
@@ -1096,8 +1097,8 @@ Der Staat ist eine Kolektiveaufgabe ^JaqHRUKW
 		},
 		{
 			"type": "text",
-			"version": 370,
-			"versionNonce": 430312840,
+			"version": 471,
+			"versionNonce": 554372020,
 			"isDeleted": false,
 			"id": "JaqHRUKW",
 			"fillStyle": "solid",
@@ -1106,28 +1107,28 @@ Der Staat ist eine Kolektiveaufgabe ^JaqHRUKW
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -346.11896817745844,
-			"y": 483.64783784413356,
+			"x": -343.9459927283748,
+			"y": 490.2979895177819,
 			"strokeColor": "#5c940d",
 			"backgroundColor": "transparent",
-			"width": 714,
-			"height": 50,
+			"width": 730,
+			"height": 99,
 			"seed": 2108812424,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670515218227,
+			"updated": 1670947117169,
 			"link": null,
 			"locked": false,
 			"fontSize": 39.10587745772373,
 			"fontFamily": 1,
-			"text": "Der Staat ist eine Kolektiveaufgabe",
-			"rawText": "Der Staat ist eine Kolektiveaufgabe",
-			"baseline": 35,
-			"textAlign": "right",
+			"text": "Der Staat ist eine Kolektivaufgabe\nAusgleichsmechanismus für Ungleichheit",
+			"rawText": "Der Staat ist eine Kolektivaufgabe\nAusgleichsmechanismus für Ungleichheit",
+			"baseline": 84,
+			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Der Staat ist eine Kolektiveaufgabe"
+			"originalText": "Der Staat ist eine Kolektivaufgabe\nAusgleichsmechanismus für Ungleichheit"
 		}
 	],
 	"appState": {
@@ -1142,14 +1143,14 @@ Der Staat ist eine Kolektiveaufgabe ^JaqHRUKW
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 36,
-		"currentItemTextAlign": "right",
+		"currentItemTextAlign": "center",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 905.2118195060791,
-		"scrollY": 562.2743520112585,
+		"scrollX": 831.7775037414367,
+		"scrollY": 115.89342351621065,
 		"zoom": {
-			"value": 0.55
+			"value": 0.6039864591985269
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null,
