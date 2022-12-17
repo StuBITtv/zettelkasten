@@ -7,11 +7,6 @@ $$
 p \in \mathbb{P} \implies \sqrt{ p } \notin \mathbb{Q}
 $$
 
-# Euklidischer Algorithmus
-Finden den größten gemeinsammen Teiler $ggT(p_{0},p_{1})$, indem die größere Zahl durch die kleiner Geteilt wird. Entsteht dabei ein Rest, teilt man die kleinere Zahl durch diesen Rest. Der Algorithmus determinert, wenn der Rest $0$ ist.
-
-Darstellung von Euklid ist $ggT(p,q) = tp + sq$.
-
 # Modulo
 Zahlen sind gleich, wenn sie sich nur um vielfache von $p$ unterscheiden.
 $$
@@ -24,4 +19,14 @@ Damit gibt es immer nur $p$ verschiedene Zahlen in der [[Menge|Menge]] der **Äq
 
 Da die Rechengesetzte gelten, kann man Modulo am Anfang, Zwischendruch oder am Ende anwenden.
 
-Die **Inverse**, also die Umkehroperation von Modulo, ist eindeutig. Nach Eulkid muss es eine Zahl $t \in \mathbb{Z}$ und eine Zahl $s \in \mathbb{Z}$ geben, sodass $1=ta+sp=_{p}ta$ gilt. Daraüber lässt sich die Inverse bestimmen.
+Die **Inverse** von modulo $p$ ist die Zahl $b$, welche man mit $a$ multiplizieren muss, damit das Produkt daraus modulo $p$ $1$ ergibt. ^d94a6f
+$$
+1=(a\cdot b)\bmod p
+$$
+
+# Euklidischer Algorithmus
+Darstellung von Euklid ist $ggT(p,q) = tp + sq$.
+
+Finden den größten gemeinsammen Teiler $ggT(p_{0},p_{1})$, indem die größere Zahl durch die kleiner Geteilt wird. Entsteht dabei ein Rest, teilt man die kleinere Zahl durch diesen Rest. Der Algorithmus determinert, wenn der Rest $0$ ist.
+
+Durch den **erweiterten euklidschen Algorthmus** erhält man die [[Teilbarkeit#^d94a6f|Inverse]]. Dafür stehlt man alle Schritte nach den Rest um und setzt den jeweils vorrigen Rest nacheinander ein.
