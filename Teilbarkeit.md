@@ -7,6 +7,8 @@ $$
 p \in \mathbb{P} \implies \sqrt{ p } \notin \mathbb{Q}
 $$
 
+Wenn zwei Zahlen kein Primfaktor gemeinsam haben, sind sie teilerfremd.
+
 # Modulo
 Zahlen sind gleich, wenn sie sich nur um vielfache von $p$ unterscheiden.
 $$
@@ -17,12 +19,13 @@ $$
 
 Damit gibt es immer nur $p$ verschiedene Zahlen in der [[Menge|Menge]] der **Äquivalenzklasse** $\mathbb{Z}_{p}:=\{ 0, 1, 2, \dots, p-1 \}$.
 
-Da die Rechengesetzte gelten, kann man Modulo am Anfang, Zwischendruch oder am Ende anwenden.
+Da die Rechengesetzte gelten, kann man Modulo am Anfang, Zwischendruch oder am Ende anwenden, aber nie im Exponenten.
 
 Die **Inverse** von modulo $p$ ist die Zahl $b$, welche man mit $a$ multiplizieren muss, damit das Produkt daraus modulo $p$ $1$ ergibt. ^d94a6f
 $$
 1=(a\cdot b)\bmod p
 $$
+Wird eindeutig, wenn die Inverse zwischen $0$ und $p$ liegen soll.
 
 # Euklidischer Algorithmus
 Darstellung von Euklid ist $ggT(p,q) = tp + sq$.
