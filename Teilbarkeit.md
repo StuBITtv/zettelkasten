@@ -17,7 +17,7 @@ $$
 
 *Notation in Kursen unterrichtet von J. Hellmich $b=_{p}a$.*
 
-Damit gibt es immer nur $p$ verschiedene Zahlen in der [[Menge|Menge]] der **Äquivalenzklasse** $\mathbb{Z}_{p}:=\{ 0, 1, 2, \dots, p-1 \}$.
+Damit gibt es immer nur $p$ verschiedene Zahlen in der [[Menge|Menge]] der **Äquivalenzklasse** $\mathbb{Z}_{p}:=\{ 0, 1, 2, \dots, p-1 \}$. Dies hat auch zu Folge, dass eine Zahl nach $p$ Stellen spätestens periodisch sein wird, falls sie dieses ist.
 
 Da die Rechengesetzte gelten, kann man Modulo am Anfang, Zwischendruch oder am Ende anwenden, aber nie im Exponenten.
 

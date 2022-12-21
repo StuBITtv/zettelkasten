@@ -1,1 +1,1 @@
-[[Menge]] von Punkten, welche durch die Ebenengleichung beschränkt werden.
+[[Menge]] von [[Vektorraum|Punkten]], welche durch die Ebenengleichung beschränkt werden.
