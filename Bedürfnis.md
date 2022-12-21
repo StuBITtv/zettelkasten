@@ -1,0 +1,1 @@
+Ein Gefühl des Mangels mit der Absicht dieses zu beseitigen.
