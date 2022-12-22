@@ -1,0 +1,3 @@
+Information über den Wert von Objekten und [[Entgelte#Währungen|Währungen]]. Existiert entweder als Firmenkapital oder Eigentkapital. 
+
+Wird Kapital weniger, spricht man von **Aufwand**. **Zinsen** sind der Preis für Kapital, heißt auch Verschleißerscheinungen. Treten die Zinsen als Wertverlust anstatt als Zahlungen auf, sind es **kalte Zinsen**. Die Information über den Wertverlust nennt man **Kosten**, welche betriebsnotwendig sind, um [[Unternehmen#^65b2e3|Güter]] zu verkaufen. Um die Kosten zu decken, muss der [[Markt#^2805ed|Preis]] hoch genug sein. Der Gewinn aus dem Preis führt zu [[Produktionsfaktor|Produktionsfaktoren]] für ein weiteres [[Unternehmen|Unternehmen]].
