@@ -10,7 +10,7 @@ Zu einer Aussage $A$ gibt es immer dessen **Gegenausage** $\bar{A}$, auch $\lnot
 - **Disjunktion** entspricht dem logischen ODER.
 - **Negation** entpricht der Gegenaussage.
 
-Bei der **kanonische Normalform** werden alle Aussagen als Konjunktionen geschrieben und mit Disjunktionen verbunden oder umgekehrt. Zum vereinfachen nutzt man aus, dass $A \lor \bar{A}$ immer wahr ist und klammert die restlichen Aussagen aus. Es ist auch möglich durch ein **Karnaugh-Veitch-Diagramm** zu vereinfachen.
+Bei der **kanonische Normalform** werden alle Aussagen als Konjunktionen geschrieben und mit Disjunktionen verbunden oder umgekehrt. Zum vereinfachen nutzt man aus, dass $A \lor \bar{A}$ immer wahr ist und klammert die restlichen Aussagen aus, wenn diese identisch sind. Es ist auch möglich durch ein **Karnaugh-Veitch-Diagramm** zu vereinfachen.
 
 ## Äquivalenz
 $$
