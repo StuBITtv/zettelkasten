@@ -8,3 +8,5 @@ Der Austausch von [[Unternehmen#^65b2e3|Güter]] wird zum **Güterstrom**, der A
 
 # Vollkommener Markt
 *Existiert real nicht*. Präferenzen und externe kontrollierende Mächte werden ausgeschlossen. Benötigt aus einem eindeutigen [[Unternehmen#^65b2e3|Gut]], einer der [[Eigentum|Eigentümer]] des Guts, der dieses hergeben würde. Damit ist das Gut **Angebot**. Zudem braucht es einen, der dieses Gut haben will. Dieses [[Bedürfnis]] wird zur **Nachfrage**.
+
+Die Wahrscheinlichkeit ein Gut zu erwerben ist proportional zum Willen, dafür zu etwas zu entbehren.
