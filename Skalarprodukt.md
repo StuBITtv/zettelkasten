@@ -15,3 +15,5 @@ $$
 $$
 
 Aus ihr geht die [[Norm]], also der Abstand, hervorgeht. Trotzdem gibt es Normen, welche nicht daraus entstehen.
+
+Ist die Norm eines Vektors $1$, gilt $d=\|x\|\cos(\alpha)$, wobei $d$ die Projektion auf $y$ ist. Ist $d$ negativ, so ist der Winkel $\alpha$ ein stumpfer Winkel. ^02a801

@@ -1,1 +1,1 @@
-[[Menge]] von [[Vektorraum|Punkten]], welche durch die Ebenengleichung beschränkt werden.
+[[Menge]] von [[Vektorraum|Punkten]], welche durch die **Ebenengleichung** beschränkt werden. Diese haben die Eigenschaft, dass sie alle die gleiche [[Skalarprodukt|Projektion]] zwischen dem Normalvektor und Nullpunkt haben und damit den gleichen Abstand zum Ursprung.
