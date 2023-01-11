@@ -5,12 +5,11 @@ Zu einer Aussage $A$ gibt es immer dessen **Gegenausage** $\bar{A}$, auch $\lnot
 **Tautologien** sind Aussagen, welche immer wahr sind und werden als Werkzug für [[Beweise|Beweise]] eingesetzt. 
 
 # Verknüpfungen
-
 - **Konjunktion** entspricht dem logischen UND.
 - **Disjunktion** entspricht dem logischen ODER.
-- **Negation** entpricht der Gegenaussage.
+- **Negation** entspricht der Gegenaussage.
 
-Bei der **kanonische Normalform** werden alle Aussagen als Konjunktionen geschrieben und mit Disjunktionen verbunden oder umgekehrt. Zum vereinfachen nutzt man aus, dass $A \lor \bar{A}$ immer wahr ist und klammert die restlichen Aussagen aus, wenn diese identisch sind. Es ist auch möglich durch ein **Karnaugh-Veitch-Diagramm** zu vereinfachen.
+Bei der **kanonische Normalform** werden alle Aussagen als Konjunktionen geschrieben und mit Disjunktionen verbunden oder umgekehrt. Zum Vereinfachen nutzt man aus, dass $A \lor \bar{A}$ immer wahr ist und klammert die restlichen Aussagen aus, wenn diese identisch sind. Es ist auch möglich, durch ein **Karnaugh-Veitch-Diagramm** zu vereinfachen.
 
 ## Äquivalenz
 $$
@@ -18,13 +17,13 @@ A \iff B := (A \implies B) \land (B \implies A)
 $$
 Immer dann wahr, wenn $A$ und $B$ den gleichen Wert haben.
 
-Das Gegenteil dazu ist die **Antivalenz**, welche XOR entpricht.
+Das Gegenteil dazu ist die **Antivalenz**, welche XOR entspricht.
 $$
 (A \land \overline{B}) \lor (\overline{A} \land B)
 $$
 
 ## Implikation
-$\implies$ ist nur ein Operator, der besagt, dass nur wenn die erste Aussage zutrifft, auch die zweite Aussage zutrifft. Das Zeichen alleine bedeutet jedoch keine Kausalität. Wenn die erste Aussage nicht zutrifft, kann nicht  auf die zweite Aussage gefolgert werden.
+$\implies$ ist nur ein Operator, der besagt, dass, nur wenn die erste Aussage zutrifft, auch die zweite Aussage zutrifft. Das Zeichen alleine bedeutet jedoch keine Kausalität. Wenn die erste Aussage nicht zutrifft, kann nicht  auf die zweite Aussage gefolgert werden.
 
 | $A$ | $B$ | $A \implies B$ |
 | --- | --- | --- | 
@@ -33,4 +32,11 @@ Wahr | Falsch | Falsch
 Falsch | Wahr | Wahr
 Falsch | Falsch | Wahr 
 
-$A \land (A \implies B)$ stellt erst eine **Kausalität** dar, da nun $A$ wahr sein muss damit auch die Gesammtaussage zurifft.
+$A \land (A \implies B)$ stellt erst eine **Kausalität** dar, da nun $A$ wahr sein muss, damit auch die Gesamtaussage zutrifft.
+
+# Interpretation
+
+$\sum=\{ A, B, C \}$ beschreibt die Menge aller vorhandenen Aussagen und deren Aussagekombination in einer Verknüpfung. Werden die Aussagewerte der atomaren Aussagen jetzt angenommen, handelt es sich um eine Interpretation, mit der die Verknüpfung ausgewertet werden kann.
+$$
+I = \{ A \rightarrow 1, B \rightarrow 1 \}, val_{I}(A\land B)=\top
+$$
