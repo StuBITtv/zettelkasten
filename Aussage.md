@@ -5,11 +5,18 @@ Zu einer Aussage $A$ gibt es immer dessen **Gegenausage** $\bar{A}$, auch $\lnot
 **Tautologien** sind Aussagen, welche immer wahr sind und werden als Werkzug für [[Beweise|Beweise]] eingesetzt. 
 
 # Verknüpfungen
-- **Konjunktion** entspricht dem logischen UND.
-- **Disjunktion** entspricht dem logischen ODER.
+- **Konjunktion** entspricht $\land$. *Das $\land$ kann weggelassen werden.*
+- **Disjunktion** entspricht $\lor$.
 - **Negation** entspricht der Gegenaussage.
 
-Bei der **kanonische Normalform** werden alle Aussagen als Konjunktionen geschrieben und mit Disjunktionen verbunden oder umgekehrt. Zum Vereinfachen nutzt man aus, dass $A \lor \bar{A}$ immer wahr ist und klammert die restlichen Aussagen aus, wenn diese identisch sind. Es ist auch möglich, durch ein **Karnaugh-Veitch-Diagramm** zu vereinfachen.
+Bei der **kanonische Normalform** werden alle Aussagen als Konjunktionen geschrieben und mit Disjunktionen verbunden oder umgekehrt. 
+
+Zum Vereinfachen nutzt man aus, dass $A \lor \bar{A}$ immer wahr ist und klammert die restlichen Aussagen aus, wenn diese identisch sind. Es ist auch möglich, durch ein **Karnaugh-Veitch-Diagramm** zu vereinfachen.
+
+Verknüpft eine Konjunktion nur mehr Aussagen als eine andere, so sind die Verknüpfiungen gleich.
+$$
+x_{1}\land x_{2}\land x_{3}=x_{1}\land x_{2}\land x_{3}\land x_{4}\land x_{5}
+$$
 
 ## Äquivalenz
 $$
