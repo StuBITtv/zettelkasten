@@ -36,7 +36,13 @@ $A \land (A \implies B)$ stellt erst eine **Kausalität** dar, da nun $A$ wahr s
 
 # Interpretation
 
-$\sum=\{ A, B, C \}$ beschreibt die Menge aller vorhandenen Aussagen und deren Aussagekombination in einer Verknüpfung. Werden die Aussagewerte der atomaren Aussagen jetzt angenommen, handelt es sich um eine Interpretation, mit der die Verknüpfung ausgewertet werden kann.
+Eine **aussagenlogische Signatur** $\sum=\{ A, B, C \}$ beschreibt eine [[Menge|Menge]] von mindestens eine atomare Aussage. Die **Formelmenge** $For0_{\sum}$ enthält alle mögliche Verknüpfungen der Aussagen von $\sum$.
+
+Werden die Aussagewerte der atomaren Aussagen jetzt angenommen, handelt es sich um eine Interpretation, mit der eine Verknüpfung ausgewertet werden kann.
 $$
 I = \{ A \rightarrow 1, B \rightarrow 1 \}, val_{I}(A\land B)=\top
 $$
+
+Die [[Menge|Menge]] an allen Interpretationen über $\sum$ ist dann $I_{\sum}$.
+
+Ein **Modell** ist eine Interpretation, bei welche die Gesamtaussage wahr ist. Die Menge aller Modelle einer Formel ist dann $Mod(A)=\left\{  I \in I_{\sum} |I(A)=\top  \right\}$.
